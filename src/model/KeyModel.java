@@ -9,6 +9,9 @@ public class KeyModel {
         this.IntKey = intKey;
     }
 
+    public KeyModel() {
+    }
+
     public String getStringKey() {
         return StringKey;
     }
